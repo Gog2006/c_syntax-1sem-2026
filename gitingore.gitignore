@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+programme
+syntaxe
+fonctions
+pointeurs
+structures
+listes
+piles_files
+arbres
+recherche
+generiques
+
+# Object files
+*.o
+*.obj
